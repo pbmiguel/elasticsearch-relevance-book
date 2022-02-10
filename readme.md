@@ -1,4 +1,5 @@
-# Elastic Search Uses Cases From The Relevant Search Book #
+# Elastic Search Uses Cases From The Relevant Search Book
+
 This repo is a collection of uses cases inspired by the book The Relevant Search.
 
 
